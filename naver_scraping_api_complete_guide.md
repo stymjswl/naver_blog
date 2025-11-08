@@ -1,4 +1,4 @@
-# Naver Scraping API: The Complete Guide to Accessing Korea's Leading Search Platform
+# Complete Guide to Naver Scraping API
 
 ## Naver Scraping API: What Is It and Why Use It?
 
